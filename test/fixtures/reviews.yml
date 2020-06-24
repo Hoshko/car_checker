@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car_model: one
+  requested_price: 9.99
+  suggested_price: 9.99
+  comment: MyString
+  owner_name: MyString
+  owner_phone: MyString
+
+two:
+  car_model: two
+  requested_price: 9.99
+  suggested_price: 9.99
+  comment: MyString
+  owner_name: MyString
+  owner_phone: MyString
